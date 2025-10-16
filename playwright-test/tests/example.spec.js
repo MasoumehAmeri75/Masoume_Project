@@ -1,4 +1,3 @@
-// فایل: tests/example.spec.js
 const { test, expect } = require('@playwright/test');
 
 test('صفحه اصلی باید درست باز شود', async ({ page }) => {
