@@ -1,0 +1,1263 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e7]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "تخفیفان" [ref=e11] [cursor=pointer]:
+            - /url: https://takhfifan.com
+            - img "تخفیفان" [ref=e12]
+          - generic [ref=e14]:
+            - button " تهران " [ref=e16] [cursor=pointer]:
+              - generic [ref=e17]: 
+              - generic [ref=e18]: تهران
+              - generic [ref=e19]: 
+            - generic [ref=e20]:
+              - 'textbox "جستجو: رستوران، باشگاه انقلاب …" [ref=e21]'
+              - button "" [ref=e22] [cursor=pointer]:
+                - generic [ref=e23]: 
+        - generic [ref=e25]:
+          - button " ورود / ثبت نام" [ref=e27] [cursor=pointer]:
+            - generic [ref=e28]: 
+            - generic [ref=e29]: ورود / ثبت نام
+          - generic [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]: 
+            - generic [ref=e34]: "0"
+      - generic [ref=e36]:
+        - list [ref=e37]:
+          - listitem [ref=e38]:
+            - generic [ref=e39]:
+              - link " همه دسته‌بندی‌ها" [ref=e40] [cursor=pointer]:
+                - /url: https://takhfifan.com
+                - generic [ref=e41]: 
+                - generic [ref=e42]: همه دسته‌بندی‌ها
+              - text:                      
+          - listitem [ref=e43]:
+            - link "برگشت پول خرید اینترنتی" [ref=e44] [cursor=pointer]:
+              - /url: https://takhfifan.com/offers
+              - generic [ref=e45]: برگشت پول خرید اینترنتی
+          - listitem [ref=e46]:
+            - link "برگشت پول خرید حضوری" [ref=e47] [cursor=pointer]:
+              - /url: https://takhfifan.com/offcb
+              - generic [ref=e48]: برگشت پول خرید حضوری
+          - listitem [ref=e49]:
+            - link "کارت تخفیف" [ref=e50] [cursor=pointer]:
+              - /url: https://takhfifan.com/ecard/
+              - generic [ref=e51]: کارت تخفیف
+          - listitem [ref=e52]:
+            - link "تخفیفان سازمانی" [ref=e53] [cursor=pointer]:
+              - /url: https://l.takhfifan.com/b2b
+              - generic [ref=e54]: تخفیفان سازمانی
+        - generic [ref=e55]:
+          - button "کسب و کار من" [ref=e57] [cursor=pointer]:
+            - generic [ref=e58]: کسب و کار من
+          - link " دانلود اپلیکیشن" [ref=e59] [cursor=pointer]:
+            - /url: /mobile/download/direct
+            - generic [ref=e60]: 
+            - generic [ref=e61]: دانلود اپلیکیشن
+    - generic [ref=e63]:
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e69]:
+            - list [ref=e70]:
+              - listitem [ref=e71]:
+                - link [ref=e73] [cursor=pointer]:
+                  - /url: https://takhfifan.com/vendor/92971_%DA%A9%D9%84%D8%A8%D9%87-%D8%AE%D8%B2%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B2%D9%87-%D8%AF%D8%A7%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF
+                  - img [ref=e74]
+              - listitem [ref=e75]:
+                - link [ref=e77] [cursor=pointer]:
+                  - /url: https://landing.takhfifan.com/daily/
+                  - img [ref=e78]
+              - listitem [ref=e79]:
+                - link "فان تایم" [ref=e81] [cursor=pointer]:
+                  - /url: https://takhfifan.com/vendor/2713_%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%DB%8C%D9%85
+                  - img "فان تایم" [ref=e82]
+              - listitem [ref=e83]:
+                - link [ref=e85] [cursor=pointer]:
+                  - /url: https://landing.takhfifan.com/shahre-lavazem/
+                  - img [ref=e86]
+              - listitem [ref=e87]:
+                - link [ref=e89] [cursor=pointer]:
+                  - /url: https://takhfifan.com/vendor/92971_%DA%A9%D9%84%D8%A8%D9%87-%D8%AE%D8%B2%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B2%D9%87-%D8%AF%D8%A7%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF
+                  - img [ref=e90]
+              - listitem [ref=e91]:
+                - link [ref=e93] [cursor=pointer]:
+                  - /url: https://landing.takhfifan.com/daily/
+                  - img [ref=e94]
+              - listitem [ref=e95]:
+                - link [ref=e97] [cursor=pointer]:
+                  - /url: https://takhfifan.com/vendor/2713_%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%DB%8C%D9%85
+                  - img [ref=e98]
+              - listitem [ref=e99]:
+                - link [ref=e101] [cursor=pointer]:
+                  - /url: https://landing.takhfifan.com/shahre-lavazem/
+                  - img [ref=e102]
+            - button "Go to previous slide" [ref=e103] [cursor=pointer]: 
+            - button "Go to next slide" [ref=e104] [cursor=pointer]: 
+            - list [ref=e105]:
+              - listitem [ref=e106]:
+                - button "Go to slide 1" [ref=e107] [cursor=pointer]
+              - listitem [ref=e108]:
+                - button "Go to slide 2" [ref=e109] [cursor=pointer]
+              - listitem [ref=e110]:
+                - button "Go to slide 3" [ref=e111] [cursor=pointer]
+              - listitem [ref=e112]:
+                - button "Go to slide 4" [ref=e113] [cursor=pointer]
+          - generic [ref=e115]:
+            - link "بروزکالا" [ref=e118] [cursor=pointer]:
+              - /url: https://takhfifan.com/offers/vendors/berozkala
+              - img "بروزکالا" [ref=e119]
+            - link "اددکارت" [ref=e122] [cursor=pointer]:
+              - /url: https://takhfifan.com/landings/s/addcard
+              - img "اددکارت" [ref=e123]
+        - generic [ref=e125]:
+          - link "رستوران ها" [ref=e126] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/restaurants-cafes/breakfast
+            - img "رستوران ها" [ref=e127]
+          - link "استخر" [ref=e128] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/recreational-sports/water-sport
+            - img "استخر" [ref=e129]
+          - link "تم پارک" [ref=e130] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/tempark
+            - img "تم پارک" [ref=e131]
+          - link "تکنولایف" [ref=e132] [cursor=pointer]:
+            - /url: https://takhfifan.com/offers/vendors/technolifenew
+            - img "تکنولایف" [ref=e133]
+          - link "پرپروک" [ref=e134] [cursor=pointer]:
+            - /url: https://takhfifan.com/offcb/chain-store/34/%D9%BE%D8%B1%D9%BE%D8%B1%D9%88%DA%A9
+            - img "پرپروک" [ref=e135]
+      - generic [ref=e138]:
+        - banner [ref=e139]:
+          - paragraph [ref=e140]: جذاب‌ترین‌ها
+          - link "مشاهده همه " [ref=e141] [cursor=pointer]:
+            - /url: http://takhfifan.com/tehran/bestdeals
+            - generic [ref=e142]: مشاهده همه
+            - generic [ref=e143]: 
+        - generic [ref=e144]:
+          - link "31 خرید شهربازی فان تایم تجریش  2.4 تا 35% تخفیف مشاهده پیشنهادها " [ref=e149] [cursor=pointer]:
+            - /url: /vendor/2713_شهربازی-فان-تایم
+            - paragraph [ref=e151]: 31 خرید
+            - generic [ref=e152]:
+              - generic [ref=e153]:
+                - paragraph [ref=e155]: شهربازی فان تایم
+                - generic [ref=e156]:
+                  - generic [ref=e158]: تجریش
+                  - generic [ref=e160]:
+                    - generic [ref=e161]: 
+                    - paragraph [ref=e162]: "2.4"
+              - generic [ref=e165]:
+                - paragraph [ref=e166]:
+                  - text: تا
+                  - generic [ref=e167]: 35%
+                - paragraph [ref=e168]: تخفیف
+            - paragraph [ref=e171]:
+              - generic [ref=e172]: مشاهده پیشنهادها
+              - generic [ref=e173]: 
+          - link "19 خرید مجموعه تفریحی پل لند شهرک اکباتان  5 تا 80% تخفیف مشاهده پیشنهادها " [ref=e178] [cursor=pointer]:
+            - /url: /vendor/93473_مجموعه-تفریحی-پل-لند
+            - paragraph [ref=e180]: 19 خرید
+            - generic [ref=e181]:
+              - generic [ref=e182]:
+                - paragraph [ref=e184]: مجموعه تفریحی پل لند
+                - generic [ref=e185]:
+                  - generic [ref=e187]: شهرک اکباتان
+                  - generic [ref=e189]:
+                    - generic [ref=e190]: 
+                    - paragraph [ref=e191]: "5"
+              - generic [ref=e194]:
+                - paragraph [ref=e195]:
+                  - text: تا
+                  - generic [ref=e196]: 80%
+                - paragraph [ref=e197]: تخفیف
+            - paragraph [ref=e200]:
+              - generic [ref=e201]: مشاهده پیشنهادها
+              - generic [ref=e202]: 
+          - link "43 خرید شهربازی ایستگاه شادی (شهربازی آناهید)  4.4 تا 87% تخفیف مشاهده پیشنهادها " [ref=e207] [cursor=pointer]:
+            - /url: /vendor/27830_شهربازی-ایستگاه-شادی-(شهربازی-آناهید)
+            - paragraph [ref=e209]: 43 خرید
+            - generic [ref=e210]:
+              - generic [ref=e211]:
+                - paragraph [ref=e213]: شهربازی ایستگاه شادی (شهربازی آناهید)
+                - generic [ref=e216]:
+                  - generic [ref=e217]: 
+                  - paragraph [ref=e218]: "4.4"
+              - generic [ref=e221]:
+                - paragraph [ref=e222]:
+                  - text: تا
+                  - generic [ref=e223]: 87%
+                - paragraph [ref=e224]: تخفیف
+            - paragraph [ref=e227]:
+              - generic [ref=e228]: مشاهده پیشنهادها
+              - generic [ref=e229]: 
+          - link "9 خرید مجموعه تله سیژ دربند دربند  4.3 تا 15% تخفیف مشاهده پیشنهادها " [ref=e234] [cursor=pointer]:
+            - /url: /vendor/11_مجموعه-تله-سیژ-دربند
+            - paragraph [ref=e236]: 9 خرید
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - paragraph [ref=e240]: مجموعه تله سیژ دربند
+                - generic [ref=e241]:
+                  - generic [ref=e243]: دربند
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: 
+                    - paragraph [ref=e247]: "4.3"
+              - generic [ref=e250]:
+                - paragraph [ref=e251]:
+                  - text: تا
+                  - generic [ref=e252]: 15%
+                - paragraph [ref=e253]: تخفیف
+            - paragraph [ref=e256]:
+              - generic [ref=e257]: مشاهده پیشنهادها
+              - generic [ref=e258]: 
+          - link "948 خرید باغ پرندگان تهران  4.2 تا 20% تخفیف مشاهده پیشنهادها " [ref=e263] [cursor=pointer]:
+            - /url: /vendor/108_باغ-پرندگان-تهران
+            - paragraph [ref=e265]: 948 خرید
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - paragraph [ref=e269]: باغ پرندگان تهران
+                - generic [ref=e272]:
+                  - generic [ref=e273]: 
+                  - paragraph [ref=e274]: "4.2"
+              - generic [ref=e277]:
+                - paragraph [ref=e278]:
+                  - text: تا
+                  - generic [ref=e279]: 20%
+                - paragraph [ref=e280]: تخفیف
+            - paragraph [ref=e283]:
+              - generic [ref=e284]: مشاهده پیشنهادها
+              - generic [ref=e285]: 
+      - generic [ref=e288]:
+        - banner [ref=e289]:
+          - paragraph [ref=e290]: رعدآسا
+          - link "مشاهده همه " [ref=e291] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/radasa
+            - generic [ref=e292]: مشاهده همه
+            - generic [ref=e293]: 
+        - generic [ref=e294]:
+          - link "30 خرید کنسرت نمایش عمو خندان پونک جنوبی  5 تا 70% تخفیف مشاهده پیشنهادها " [ref=e299] [cursor=pointer]:
+            - /url: /vendor/94483_کنسرت-نمایش-عمو-خندان
+            - paragraph [ref=e301]: 30 خرید
+            - generic [ref=e302]:
+              - generic [ref=e303]:
+                - paragraph [ref=e305]: کنسرت نمایش عمو خندان
+                - generic [ref=e306]:
+                  - generic [ref=e308]: پونک جنوبی
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: 
+                    - paragraph [ref=e312]: "5"
+              - generic [ref=e315]:
+                - paragraph [ref=e316]:
+                  - text: تا
+                  - generic [ref=e317]: 70%
+                - paragraph [ref=e318]: تخفیف
+            - paragraph [ref=e321]:
+              - generic [ref=e322]: مشاهده پیشنهادها
+              - generic [ref=e323]: 
+          - link "943 خرید شهربازی ایستگاه شادی (شهربازی آناهید)  4.4 تا 86% تخفیف مشاهده پیشنهادها " [ref=e328] [cursor=pointer]:
+            - /url: /vendor/27830_شهربازی-ایستگاه-شادی-(شهربازی-آناهید)
+            - paragraph [ref=e330]: 943 خرید
+            - generic [ref=e331]:
+              - generic [ref=e332]:
+                - paragraph [ref=e334]: شهربازی ایستگاه شادی (شهربازی آناهید)
+                - generic [ref=e337]:
+                  - generic [ref=e338]: 
+                  - paragraph [ref=e339]: "4.4"
+              - generic [ref=e342]:
+                - paragraph [ref=e343]:
+                  - text: تا
+                  - generic [ref=e344]: 86%
+                - paragraph [ref=e345]: تخفیف
+            - paragraph [ref=e348]:
+              - generic [ref=e349]: مشاهده پیشنهادها
+              - generic [ref=e350]: 
+          - link "8 خرید نمایش کمدی موزیکال طلاق بی طلاق سعادت آباد تا 60% تخفیف مشاهده پیشنهادها " [ref=e355] [cursor=pointer]:
+            - /url: /vendor/94290_نمایش-کمدی-موزیکال-طلاق-بی-طلاق
+            - paragraph [ref=e357]: 8 خرید
+            - generic [ref=e358]:
+              - generic [ref=e359]:
+                - paragraph [ref=e361]: نمایش کمدی موزیکال طلاق بی طلاق
+                - generic [ref=e364]: سعادت آباد
+              - generic [ref=e367]:
+                - paragraph [ref=e368]:
+                  - text: تا
+                  - generic [ref=e369]: 60%
+                - paragraph [ref=e370]: تخفیف
+            - paragraph [ref=e373]:
+              - generic [ref=e374]: مشاهده پیشنهادها
+              - generic [ref=e375]: 
+          - link "343 خرید شهربازی هورا پارک سمرقند جنت آباد جنت‌ آباد جنوبی  3.5 تا 40% تخفیف مشاهده پیشنهادها " [ref=e380] [cursor=pointer]:
+            - /url: /vendor/61274_شهربازی-هورا-پارک-سمرقند-جنت-آباد
+            - paragraph [ref=e382]: 343 خرید
+            - generic [ref=e383]:
+              - generic [ref=e384]:
+                - paragraph [ref=e386]: شهربازی هورا پارک سمرقند جنت آباد
+                - generic [ref=e387]:
+                  - generic [ref=e389]: جنت‌ آباد جنوبی
+                  - generic [ref=e391]:
+                    - generic [ref=e392]: 
+                    - paragraph [ref=e393]: "3.5"
+              - generic [ref=e396]:
+                - paragraph [ref=e397]:
+                  - text: تا
+                  - generic [ref=e398]: 40%
+                - paragraph [ref=e399]: تخفیف
+            - paragraph [ref=e402]:
+              - generic [ref=e403]: مشاهده پیشنهادها
+              - generic [ref=e404]: 
+          - link "96 خرید مجموعه گردشگری آکواریوم پارک شهر سنگلج  4.1 تا 70% تخفیف مشاهده پیشنهادها " [ref=e409] [cursor=pointer]:
+            - /url: /vendor/54262_مجموعه-گردشگری-آکواریوم-پارک-شهر
+            - paragraph [ref=e411]: 96 خرید
+            - generic [ref=e412]:
+              - generic [ref=e413]:
+                - paragraph [ref=e415]: مجموعه گردشگری آکواریوم پارک شهر
+                - generic [ref=e416]:
+                  - generic [ref=e418]: سنگلج
+                  - generic [ref=e420]:
+                    - generic [ref=e421]: 
+                    - paragraph [ref=e422]: "4.1"
+              - generic [ref=e425]:
+                - paragraph [ref=e426]:
+                  - text: تا
+                  - generic [ref=e427]: 70%
+                - paragraph [ref=e428]: تخفیف
+            - paragraph [ref=e431]:
+              - generic [ref=e432]: مشاهده پیشنهادها
+              - generic [ref=e433]: 
+      - generic [ref=e436]:
+        - banner [ref=e437]:
+          - paragraph [ref=e438]: نمایش‌های کمدی
+          - link "مشاهده همه " [ref=e439] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/nowrooz1404/theater
+            - generic [ref=e440]: مشاهده همه
+            - generic [ref=e441]: 
+        - generic [ref=e442]:
+          - link "1 خرید نمایش کمدی موزیکال تولد شیرین  1.1 تا 60% تخفیف مشاهده پیشنهادها " [ref=e447] [cursor=pointer]:
+            - /url: /vendor/89643_نمایش-کمدی-موزیکال-تولد-شیرین
+            - paragraph [ref=e449]: 1 خرید
+            - generic [ref=e450]:
+              - generic [ref=e451]:
+                - paragraph [ref=e453]: نمایش کمدی موزیکال تولد شیرین
+                - generic [ref=e456]:
+                  - generic [ref=e457]: 
+                  - paragraph [ref=e458]: "1.1"
+              - generic [ref=e461]:
+                - paragraph [ref=e462]:
+                  - text: تا
+                  - generic [ref=e463]: 60%
+                - paragraph [ref=e464]: تخفیف
+            - paragraph [ref=e467]:
+              - generic [ref=e468]: مشاهده پیشنهادها
+              - generic [ref=e469]: 
+          - link "نمایش عروس مرموز اجنبی  1 تا 60% تخفیف مشاهده پیشنهادها " [ref=e474] [cursor=pointer]:
+            - /url: /vendor/92771_نمایش-عروس-مرموز-اجنبی
+            - generic [ref=e475]:
+              - generic [ref=e476]:
+                - paragraph [ref=e478]: نمایش عروس مرموز اجنبی
+                - generic [ref=e481]:
+                  - generic [ref=e482]: 
+                  - paragraph [ref=e483]: "1"
+              - generic [ref=e486]:
+                - paragraph [ref=e487]:
+                  - text: تا
+                  - generic [ref=e488]: 60%
+                - paragraph [ref=e489]: تخفیف
+            - paragraph [ref=e492]:
+              - generic [ref=e493]: مشاهده پیشنهادها
+              - generic [ref=e494]: 
+          - link "نمایش کمدی کلک خواجه نصیر - حقوقی تا 20% تخفیف مشاهده پیشنهادها " [ref=e499] [cursor=pointer]:
+            - /url: /vendor/94861_نمایش-کمدی-کلک
+            - generic [ref=e500]:
+              - generic [ref=e501]:
+                - paragraph [ref=e503]: نمایش کمدی کلک
+                - generic [ref=e506]: خواجه نصیر - حقوقی
+              - generic [ref=e509]:
+                - paragraph [ref=e510]:
+                  - text: تا
+                  - generic [ref=e511]: 20%
+                - paragraph [ref=e512]: تخفیف
+            - paragraph [ref=e515]:
+              - generic [ref=e516]: مشاهده پیشنهادها
+              - generic [ref=e517]: 
+          - link "35 خرید نمایش کمدی برجک ولیعصر  4.5 تا 55% تخفیف مشاهده پیشنهادها " [ref=e522] [cursor=pointer]:
+            - /url: /vendor/92973_نمایش-کمدی-برجک
+            - paragraph [ref=e524]: 35 خرید
+            - generic [ref=e525]:
+              - generic [ref=e526]:
+                - paragraph [ref=e528]: نمایش کمدی برجک
+                - generic [ref=e529]:
+                  - generic [ref=e531]: ولیعصر
+                  - generic [ref=e533]:
+                    - generic [ref=e534]: 
+                    - paragraph [ref=e535]: "4.5"
+              - generic [ref=e538]:
+                - paragraph [ref=e539]:
+                  - text: تا
+                  - generic [ref=e540]: 55%
+                - paragraph [ref=e541]: تخفیف
+            - paragraph [ref=e544]:
+              - generic [ref=e545]: مشاهده پیشنهادها
+              - generic [ref=e546]: 
+          - link "6 خرید نمایش کمدی موزیکال ویتامین 30 پونک  2.8 تا 30% تخفیف مشاهده پیشنهادها " [ref=e551] [cursor=pointer]:
+            - /url: /vendor/87290_نمایش-کمدی-موزیکال-ویتامین-30
+            - paragraph [ref=e553]: 6 خرید
+            - generic [ref=e554]:
+              - generic [ref=e555]:
+                - paragraph [ref=e557]: نمایش کمدی موزیکال ویتامین 30
+                - generic [ref=e558]:
+                  - generic [ref=e560]: پونک
+                  - generic [ref=e562]:
+                    - generic [ref=e563]: 
+                    - paragraph [ref=e564]: "2.8"
+              - generic [ref=e567]:
+                - paragraph [ref=e568]:
+                  - text: تا
+                  - generic [ref=e569]: 30%
+                - paragraph [ref=e570]: تخفیف
+            - paragraph [ref=e573]:
+              - generic [ref=e574]: مشاهده پیشنهادها
+              - generic [ref=e575]: 
+      - generic [ref=e578]:
+        - banner [ref=e579]:
+          - paragraph [ref=e580]: استخرهای خفن !‍
+          - link "مشاهده همه " [ref=e581] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/recreational-sports/water-sport
+            - generic [ref=e582]: مشاهده همه
+            - generic [ref=e583]: 
+        - generic [ref=e584]:
+          - link "359 خرید مجموعه فرهنگی ورزشی اطلس ازگل  3.3 تا 19% تخفیف مشاهده پیشنهادها " [ref=e589] [cursor=pointer]:
+            - /url: /vendor/24419_مجموعه-فرهنگی-ورزشی-اطلس
+            - paragraph [ref=e591]: 359 خرید
+            - generic [ref=e592]:
+              - generic [ref=e593]:
+                - paragraph [ref=e595]: مجموعه فرهنگی ورزشی اطلس
+                - generic [ref=e596]:
+                  - generic [ref=e598]: ازگل
+                  - generic [ref=e600]:
+                    - generic [ref=e601]: 
+                    - paragraph [ref=e602]: "3.3"
+              - generic [ref=e605]:
+                - paragraph [ref=e606]:
+                  - text: تا
+                  - generic [ref=e607]: 19%
+                - paragraph [ref=e608]: تخفیف
+            - paragraph [ref=e611]:
+              - generic [ref=e612]: مشاهده پیشنهادها
+              - generic [ref=e613]: 
+          - link "10 خرید استخر سید جلال حسینی کن  4.9 تا 50% تخفیف مشاهده پیشنهادها " [ref=e618] [cursor=pointer]:
+            - /url: /vendor/49644_استخر-سید-جلال-حسینی
+            - paragraph [ref=e620]: 10 خرید
+            - generic [ref=e621]:
+              - generic [ref=e622]:
+                - paragraph [ref=e624]: استخر سید جلال حسینی
+                - generic [ref=e625]:
+                  - generic [ref=e627]: کن
+                  - generic [ref=e629]:
+                    - generic [ref=e630]: 
+                    - paragraph [ref=e631]: "4.9"
+              - generic [ref=e634]:
+                - paragraph [ref=e635]:
+                  - text: تا
+                  - generic [ref=e636]: 50%
+                - paragraph [ref=e637]: تخفیف
+            - paragraph [ref=e640]:
+              - generic [ref=e641]: مشاهده پیشنهادها
+              - generic [ref=e642]: 
+          - link "26 خرید استخر مجموعه ورزشی گلستان (فاطمی )  5 تا 6% تخفیف مشاهده پیشنهادها " [ref=e647] [cursor=pointer]:
+            - /url: /vendor/60378_استخر-مجموعه-ورزشی-گلستان-(فاطمی-)
+            - paragraph [ref=e649]: 26 خرید
+            - generic [ref=e650]:
+              - generic [ref=e651]:
+                - paragraph [ref=e653]: استخر مجموعه ورزشی گلستان (فاطمی )
+                - generic [ref=e656]:
+                  - generic [ref=e657]: 
+                  - paragraph [ref=e658]: "5"
+              - generic [ref=e661]:
+                - paragraph [ref=e662]:
+                  - text: تا
+                  - generic [ref=e663]: 6%
+                - paragraph [ref=e664]: تخفیف
+            - paragraph [ref=e667]:
+              - generic [ref=e668]: مشاهده پیشنهادها
+              - generic [ref=e669]: 
+          - link "25 خرید استخر موج طلایی تهران پارس  4.3 تا 10% تخفیف مشاهده پیشنهادها " [ref=e674] [cursor=pointer]:
+            - /url: /vendor/10238_استخر-موج-طلایی
+            - paragraph [ref=e676]: 25 خرید
+            - generic [ref=e677]:
+              - generic [ref=e678]:
+                - paragraph [ref=e680]: استخر موج طلایی
+                - generic [ref=e681]:
+                  - generic [ref=e683]: تهران پارس
+                  - generic [ref=e685]:
+                    - generic [ref=e686]: 
+                    - paragraph [ref=e687]: "4.3"
+              - generic [ref=e690]:
+                - paragraph [ref=e691]:
+                  - text: تا
+                  - generic [ref=e692]: 10%
+                - paragraph [ref=e693]: تخفیف
+            - paragraph [ref=e696]:
+              - generic [ref=e697]: مشاهده پیشنهادها
+              - generic [ref=e698]: 
+          - link "424 خرید استخر پرسپولیس آیت الله کاشانی  3.2 تا 9% تخفیف مشاهده پیشنهادها " [ref=e703] [cursor=pointer]:
+            - /url: /vendor/775_استخر-پرسپولیس
+            - paragraph [ref=e705]: 424 خرید
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - paragraph [ref=e709]: استخر پرسپولیس
+                - generic [ref=e710]:
+                  - generic [ref=e712]: آیت الله کاشانی
+                  - generic [ref=e714]:
+                    - generic [ref=e715]: 
+                    - paragraph [ref=e716]: "3.2"
+              - generic [ref=e719]:
+                - paragraph [ref=e720]:
+                  - text: تا
+                  - generic [ref=e721]: 9%
+                - paragraph [ref=e722]: تخفیف
+            - paragraph [ref=e725]:
+              - generic [ref=e726]: مشاهده پیشنهادها
+              - generic [ref=e727]: 
+      - generic [ref=e730]:
+        - banner [ref=e731]:
+          - paragraph [ref=e732]: تم پارک
+          - link "مشاهده همه " [ref=e733] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/tempark
+            - generic [ref=e734]: مشاهده همه
+            - generic [ref=e735]: 
+        - generic [ref=e736]:
+          - link "13 خرید رصد خانه نیاوران داراباد  3.7 تا 15% تخفیف مشاهده پیشنهادها " [ref=e741] [cursor=pointer]:
+            - /url: /vendor/19672_رصد-خانه-نیاوران
+            - paragraph [ref=e743]: 13 خرید
+            - generic [ref=e744]:
+              - generic [ref=e745]:
+                - paragraph [ref=e747]: رصد خانه نیاوران
+                - generic [ref=e748]:
+                  - generic [ref=e750]: داراباد
+                  - generic [ref=e752]:
+                    - generic [ref=e753]: 
+                    - paragraph [ref=e754]: "3.7"
+              - generic [ref=e757]:
+                - paragraph [ref=e758]:
+                  - text: تا
+                  - generic [ref=e759]: 15%
+                - paragraph [ref=e760]: تخفیف
+            - paragraph [ref=e763]:
+              - generic [ref=e764]: مشاهده پیشنهادها
+              - generic [ref=e765]: 
+          - link "474 خرید اقیانوس پارک آفریقا  3.9 تا 15% تخفیف مشاهده پیشنهادها " [ref=e770] [cursor=pointer]:
+            - /url: /vendor/54205_اقیانوس-پارک
+            - paragraph [ref=e772]: 474 خرید
+            - generic [ref=e773]:
+              - generic [ref=e774]:
+                - paragraph [ref=e776]: اقیانوس پارک
+                - generic [ref=e777]:
+                  - generic [ref=e779]: آفریقا
+                  - generic [ref=e781]:
+                    - generic [ref=e782]: 
+                    - paragraph [ref=e783]: "3.9"
+              - generic [ref=e786]:
+                - paragraph [ref=e787]:
+                  - text: تا
+                  - generic [ref=e788]: 15%
+                - paragraph [ref=e789]: تخفیف
+            - paragraph [ref=e792]:
+              - generic [ref=e793]: مشاهده پیشنهادها
+              - generic [ref=e794]: 
+          - link "18 خرید دکتر لند نیاوران دارآباد  4.9 تا 15% تخفیف مشاهده پیشنهادها " [ref=e799] [cursor=pointer]:
+            - /url: /vendor/19669_دکتر-لند-نیاوران
+            - paragraph [ref=e801]: 18 خرید
+            - generic [ref=e802]:
+              - generic [ref=e803]:
+                - paragraph [ref=e805]: دکتر لند نیاوران
+                - generic [ref=e806]:
+                  - generic [ref=e808]: دارآباد
+                  - generic [ref=e810]:
+                    - generic [ref=e811]: 
+                    - paragraph [ref=e812]: "4.9"
+              - generic [ref=e815]:
+                - paragraph [ref=e816]:
+                  - text: تا
+                  - generic [ref=e817]: 15%
+                - paragraph [ref=e818]: تخفیف
+            - paragraph [ref=e821]:
+              - generic [ref=e822]: مشاهده پیشنهادها
+              - generic [ref=e823]: 
+          - link "2655 خرید شهربازی پارک ژوراسیک تهران  3.7 تا 30% تخفیف مشاهده پیشنهادها " [ref=e828] [cursor=pointer]:
+            - /url: /vendor/19668_شهربازی-پارک-ژوراسیک-تهران
+            - paragraph [ref=e830]: 2655 خرید
+            - generic [ref=e831]:
+              - generic [ref=e832]:
+                - paragraph [ref=e834]: شهربازی پارک ژوراسیک تهران
+                - generic [ref=e837]:
+                  - generic [ref=e838]: 
+                  - paragraph [ref=e839]: "3.7"
+              - generic [ref=e842]:
+                - paragraph [ref=e843]:
+                  - text: تا
+                  - generic [ref=e844]: 30%
+                - paragraph [ref=e845]: تخفیف
+            - paragraph [ref=e848]:
+              - generic [ref=e849]: مشاهده پیشنهادها
+              - generic [ref=e850]: 
+          - link "215 خرید هیومن پارک داراباد  4.8 تا 15% تخفیف مشاهده پیشنهادها " [ref=e855] [cursor=pointer]:
+            - /url: /vendor/19670_هیومن-پارک
+            - paragraph [ref=e857]: 215 خرید
+            - generic [ref=e858]:
+              - generic [ref=e859]:
+                - paragraph [ref=e861]: هیومن پارک
+                - generic [ref=e862]:
+                  - generic [ref=e864]: داراباد
+                  - generic [ref=e866]:
+                    - generic [ref=e867]: 
+                    - paragraph [ref=e868]: "4.8"
+              - generic [ref=e871]:
+                - paragraph [ref=e872]:
+                  - text: تا
+                  - generic [ref=e873]: 15%
+                - paragraph [ref=e874]: تخفیف
+            - paragraph [ref=e877]:
+              - generic [ref=e878]: مشاهده پیشنهادها
+              - generic [ref=e879]: 
+      - generic [ref=e882]:
+        - banner [ref=e883]:
+          - paragraph [ref=e884]: تازه‌های تخفیفان
+          - link "مشاهده همه " [ref=e885] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/most-newdiscount
+            - generic [ref=e886]: مشاهده همه
+            - generic [ref=e887]: 
+        - generic [ref=e888]:
+          - link "استودیو xbody و تناسب اندام پرانیک نیاوران تا 27% تخفیف مشاهده پیشنهادها " [ref=e893] [cursor=pointer]:
+            - /url: /vendor/94895_استودیو-xbody-و-تناسب-اندام-پرانیک-
+            - generic [ref=e894]:
+              - generic [ref=e895]:
+                - paragraph [ref=e897]: استودیو xbody و تناسب اندام پرانیک
+                - generic [ref=e900]: نیاوران
+              - generic [ref=e903]:
+                - paragraph [ref=e904]:
+                  - text: تا
+                  - generic [ref=e905]: 27%
+                - paragraph [ref=e906]: تخفیف
+            - paragraph [ref=e909]:
+              - generic [ref=e910]: مشاهده پیشنهادها
+              - generic [ref=e911]: 
+          - link "گیم نت لیان کاشانک تا 30% تخفیف مشاهده پیشنهادها " [ref=e916] [cursor=pointer]:
+            - /url: /vendor/94751_گیم-نت-لیان
+            - generic [ref=e917]:
+              - generic [ref=e918]:
+                - paragraph [ref=e920]: گیم نت لیان
+                - generic [ref=e923]: کاشانک
+              - generic [ref=e926]:
+                - paragraph [ref=e927]:
+                  - text: تا
+                  - generic [ref=e928]: 30%
+                - paragraph [ref=e929]: تخفیف
+            - paragraph [ref=e932]:
+              - generic [ref=e933]: مشاهده پیشنهادها
+              - generic [ref=e934]: 
+          - link "کافه قنادی زان درختی تا 15% تخفیف مشاهده پیشنهادها " [ref=e939] [cursor=pointer]:
+            - /url: /vendor/94749_کافه-قنادی-زان-
+            - generic [ref=e940]:
+              - generic [ref=e941]:
+                - paragraph [ref=e943]: کافه قنادی زان
+                - generic [ref=e946]: درختی
+              - generic [ref=e949]:
+                - paragraph [ref=e950]:
+                  - text: تا
+                  - generic [ref=e951]: 15%
+                - paragraph [ref=e952]: تخفیف
+            - paragraph [ref=e955]:
+              - generic [ref=e956]: مشاهده پیشنهادها
+              - generic [ref=e957]: 
+          - link "کافه قهوه سیلا کردستان تا 30% تخفیف مشاهده پیشنهادها " [ref=e962] [cursor=pointer]:
+            - /url: /vendor/94535_کافه-قهوه-سیلا
+            - generic [ref=e963]:
+              - generic [ref=e964]:
+                - paragraph [ref=e966]: کافه قهوه سیلا
+                - generic [ref=e969]: کردستان
+              - generic [ref=e972]:
+                - paragraph [ref=e973]:
+                  - text: تا
+                  - generic [ref=e974]: 30%
+                - paragraph [ref=e975]: تخفیف
+            - paragraph [ref=e978]:
+              - generic [ref=e979]: مشاهده پیشنهادها
+              - generic [ref=e980]: 
+          - link "5 خرید هتل لوکس وزرا گاندی  4.9 تا 10% تخفیف مشاهده پیشنهادها " [ref=e985] [cursor=pointer]:
+            - /url: /vendor/7905_هتل-لوکس-وزرا
+            - paragraph [ref=e987]: 5 خرید
+            - generic [ref=e988]:
+              - generic [ref=e989]:
+                - paragraph [ref=e991]: هتل لوکس وزرا
+                - generic [ref=e992]:
+                  - generic [ref=e994]: گاندی
+                  - generic [ref=e996]:
+                    - generic [ref=e997]: 
+                    - paragraph [ref=e998]: "4.9"
+              - generic [ref=e1001]:
+                - paragraph [ref=e1002]:
+                  - text: تا
+                  - generic [ref=e1003]: 10%
+                - paragraph [ref=e1004]: تخفیف
+            - paragraph [ref=e1007]:
+              - generic [ref=e1008]: مشاهده پیشنهادها
+              - generic [ref=e1009]: 
+      - generic [ref=e1012]:
+        - banner [ref=e1013]:
+          - paragraph [ref=e1014]: تورهای پاییزی
+          - link "مشاهده همه " [ref=e1015] [cursor=pointer]:
+            - /url: https://takhfifan.com/tour
+            - generic [ref=e1016]: مشاهده همه
+            - generic [ref=e1017]: 
+        - generic [ref=e1018]:
+          - link "تور کیش با آژانس هواپیمائی شادان برزین ایران ... باغ فیض تا 16% تخفیف مشاهده پیشنهادها " [ref=e1023] [cursor=pointer]:
+            - /url: /vendor/88504_-تور-کیش-با-آژانس-هواپیمائی-شادان-برزین-ایرانیان
+            - generic [ref=e1024]:
+              - generic [ref=e1025]:
+                - paragraph [ref=e1027]: تور کیش با آژانس هواپیمائی شادان برزین ایران ...
+                - generic [ref=e1030]: باغ فیض
+              - generic [ref=e1033]:
+                - paragraph [ref=e1034]:
+                  - text: تا
+                  - generic [ref=e1035]: 16%
+                - paragraph [ref=e1036]: تخفیف
+            - paragraph [ref=e1039]:
+              - generic [ref=e1040]: مشاهده پیشنهادها
+              - generic [ref=e1041]: 
+          - link "1 خرید تور قلعه رودخان با آژانس مسافرتی پا به پا سفر محله فردوس تا 20% تخفیف مشاهده پیشنهادها " [ref=e1046] [cursor=pointer]:
+            - /url: /vendor/86368_تور-قلعه-رودخان-با-آژانس-مسافرتی-پا-به-پا-سفر
+            - paragraph [ref=e1048]: 1 خرید
+            - generic [ref=e1049]:
+              - generic [ref=e1050]:
+                - paragraph [ref=e1052]: تور قلعه رودخان با آژانس مسافرتی پا به پا سفر
+                - generic [ref=e1055]: محله فردوس
+              - generic [ref=e1058]:
+                - paragraph [ref=e1059]:
+                  - text: تا
+                  - generic [ref=e1060]: 20%
+                - paragraph [ref=e1061]: تخفیف
+            - paragraph [ref=e1064]:
+              - generic [ref=e1065]: مشاهده پیشنهادها
+              - generic [ref=e1066]: 
+          - link "تور استانبول با آژانس هواپیمائی شادان برزین ا ... باغ فیض تا 17% تخفیف مشاهده پیشنهادها " [ref=e1071] [cursor=pointer]:
+            - /url: /vendor/88505_تور-استانبول-با-آژانس-هواپیمائی-شادان-برزین-ایرانیان
+            - generic [ref=e1072]:
+              - generic [ref=e1073]:
+                - paragraph [ref=e1075]: تور استانبول با آژانس هواپیمائی شادان برزین ا ...
+                - generic [ref=e1078]: باغ فیض
+              - generic [ref=e1081]:
+                - paragraph [ref=e1082]:
+                  - text: تا
+                  - generic [ref=e1083]: 17%
+                - paragraph [ref=e1084]: تخفیف
+            - paragraph [ref=e1087]:
+              - generic [ref=e1088]: مشاهده پیشنهادها
+              - generic [ref=e1089]: 
+          - link "تور ارتفاعات ماسال و ساحل کاسپین آژانس مسافرت ... باغ فیض تا 16% تخفیف مشاهده پیشنهادها " [ref=e1094] [cursor=pointer]:
+            - /url: /vendor/93861_تور-ارتفاعات-ماسال-و-ساحل-کاسپین-آژانس-مسافرتی-ناخداگشت
+            - generic [ref=e1095]:
+              - generic [ref=e1096]:
+                - paragraph [ref=e1098]: تور ارتفاعات ماسال و ساحل کاسپین آژانس مسافرت ...
+                - generic [ref=e1101]: باغ فیض
+              - generic [ref=e1104]:
+                - paragraph [ref=e1105]:
+                  - text: تا
+                  - generic [ref=e1106]: 16%
+                - paragraph [ref=e1107]: تخفیف
+            - paragraph [ref=e1110]:
+              - generic [ref=e1111]: مشاهده پیشنهادها
+              - generic [ref=e1112]: 
+          - link "2 خرید تور نمک آبرود با آژانس مسافرتی پا به پا سفر محله فردوس تا 20% تخفیف مشاهده پیشنهادها " [ref=e1117] [cursor=pointer]:
+            - /url: /vendor/86370_تور-نمک-آبرود-با-آژانس-مسافرتی-پا-به-پا-سفر
+            - paragraph [ref=e1119]: 2 خرید
+            - generic [ref=e1120]:
+              - generic [ref=e1121]:
+                - paragraph [ref=e1123]: تور نمک آبرود با آژانس مسافرتی پا به پا سفر
+                - generic [ref=e1126]: محله فردوس
+              - generic [ref=e1129]:
+                - paragraph [ref=e1130]:
+                  - text: تا
+                  - generic [ref=e1131]: 20%
+                - paragraph [ref=e1132]: تخفیف
+            - paragraph [ref=e1135]:
+              - generic [ref=e1136]: مشاهده پیشنهادها
+              - generic [ref=e1137]: 
+      - generic [ref=e1140]:
+        - banner [ref=e1141]:
+          - paragraph [ref=e1142]: رستوران‌های محبوب
+          - link "مشاهده همه " [ref=e1143] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/restaurants-cafes
+            - generic [ref=e1144]: مشاهده همه
+            - generic [ref=e1145]: 
+        - generic [ref=e1146]:
+          - link "فست فود اُرس پردیس تا 15% تخفیف مشاهده پیشنهادها " [ref=e1151] [cursor=pointer]:
+            - /url: /vendor/84842_فست-فود-اُرس
+            - generic [ref=e1152]:
+              - generic [ref=e1153]:
+                - paragraph [ref=e1155]: فست فود اُرس
+                - generic [ref=e1158]: پردیس
+              - generic [ref=e1161]:
+                - paragraph [ref=e1162]:
+                  - text: تا
+                  - generic [ref=e1163]: 15%
+                - paragraph [ref=e1164]: تخفیف
+            - paragraph [ref=e1167]:
+              - generic [ref=e1168]: مشاهده پیشنهادها
+              - generic [ref=e1169]: 
+          - link "2232 خرید رستوران هتل بلوط ولنجک ولنجک  3.2 تا 15% تخفیف مشاهده پیشنهادها " [ref=e1174] [cursor=pointer]:
+            - /url: /vendor/5586_رستوران-هتل-بلوط-ولنجک
+            - paragraph [ref=e1176]: 2232 خرید
+            - generic [ref=e1177]:
+              - generic [ref=e1178]:
+                - paragraph [ref=e1180]: رستوران هتل بلوط ولنجک
+                - generic [ref=e1181]:
+                  - generic [ref=e1183]: ولنجک
+                  - generic [ref=e1185]:
+                    - generic [ref=e1186]: 
+                    - paragraph [ref=e1187]: "3.2"
+              - generic [ref=e1190]:
+                - paragraph [ref=e1191]:
+                  - text: تا
+                  - generic [ref=e1192]: 15%
+                - paragraph [ref=e1193]: تخفیف
+            - paragraph [ref=e1196]:
+              - generic [ref=e1197]: مشاهده پیشنهادها
+              - generic [ref=e1198]: 
+          - link "167 خرید رستوران هتل ایران بهجت آباد  3.1 تا 20% تخفیف مشاهده پیشنهادها " [ref=e1203] [cursor=pointer]:
+            - /url: /vendor/12797_رستوران-هتل-ایران
+            - paragraph [ref=e1205]: 167 خرید
+            - generic [ref=e1206]:
+              - generic [ref=e1207]:
+                - paragraph [ref=e1209]: رستوران هتل ایران
+                - generic [ref=e1210]:
+                  - generic [ref=e1212]: بهجت آباد
+                  - generic [ref=e1214]:
+                    - generic [ref=e1215]: 
+                    - paragraph [ref=e1216]: "3.1"
+              - generic [ref=e1219]:
+                - paragraph [ref=e1220]:
+                  - text: تا
+                  - generic [ref=e1221]: 20%
+                - paragraph [ref=e1222]: تخفیف
+            - paragraph [ref=e1225]:
+              - generic [ref=e1226]: مشاهده پیشنهادها
+              - generic [ref=e1227]: 
+          - link "198 خرید بوفه ناهار رستوران پنج ستاره رزمیلو سوهانک  4.9 تا 10% تخفیف مشاهده پیشنهادها " [ref=e1232] [cursor=pointer]:
+            - /url: /vendor/89089_بوفه-ناهار-رستوران-پنج-ستاره-رزمیلو
+            - paragraph [ref=e1234]: 198 خرید
+            - generic [ref=e1235]:
+              - generic [ref=e1236]:
+                - paragraph [ref=e1238]: بوفه ناهار رستوران پنج ستاره رزمیلو
+                - generic [ref=e1239]:
+                  - generic [ref=e1241]: سوهانک
+                  - generic [ref=e1243]:
+                    - generic [ref=e1244]: 
+                    - paragraph [ref=e1245]: "4.9"
+              - generic [ref=e1248]:
+                - paragraph [ref=e1249]:
+                  - text: تا
+                  - generic [ref=e1250]: 10%
+                - paragraph [ref=e1251]: تخفیف
+            - paragraph [ref=e1254]:
+              - generic [ref=e1255]: مشاهده پیشنهادها
+              - generic [ref=e1256]: 
+          - link "1 خرید کافه رستوران ویواچه (دریاچه) شهرک گلستان تا 60% تخفیف مشاهده پیشنهادها " [ref=e1261] [cursor=pointer]:
+            - /url: /vendor/92693_کافه-رستوران-ویواچه-(دریاچه)
+            - paragraph [ref=e1263]: 1 خرید
+            - generic [ref=e1264]:
+              - generic [ref=e1265]:
+                - paragraph [ref=e1267]: کافه رستوران ویواچه (دریاچه)
+                - generic [ref=e1270]: شهرک گلستان
+              - generic [ref=e1273]:
+                - paragraph [ref=e1274]:
+                  - text: تا
+                  - generic [ref=e1275]: 60%
+                - paragraph [ref=e1276]: تخفیف
+            - paragraph [ref=e1279]:
+              - generic [ref=e1280]: مشاهده پیشنهادها
+              - generic [ref=e1281]: 
+      - generic [ref=e1285]:
+        - generic [ref=e1287]:
+          - generic [ref=e1288]:
+            - paragraph [ref=e1289]: برگشت
+            - paragraph [ref=e1290]: پول
+          - generic [ref=e1291]:
+            - paragraph [ref=e1292]: از فروشـــــــــــــــگاه‌های محلی به‌صورت حضوری خرید کن
+            - generic [ref=e1293]:
+              - paragraph [ref=e1294]: بخشی از مبلغ پرداختی رو پاداش نقدی بگیر
+              - link "اطلاعات بیشتر " [ref=e1295] [cursor=pointer]:
+                - /url: /offcb
+                - generic [ref=e1296]: اطلاعات بیشتر
+                - generic [ref=e1297]: 
+        - generic [ref=e1298]:
+          - link "پرپروک ٪21 برگشت‌پول 16 شعبه" [ref=e1299] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1301]: پرپروک
+            - paragraph [ref=e1302]: ٪21 برگشت‌پول
+            - paragraph [ref=e1303]: 16 شعبه
+          - link "دیلی مارکت ٪2 برگشت‌پول 993 شعبه" [ref=e1304] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1306]: دیلی مارکت
+            - paragraph [ref=e1307]: ٪2 برگشت‌پول
+            - paragraph [ref=e1308]: 993 شعبه
+          - link "هایپر فامیلی ٪2 برگشت‌پول 75 شعبه" [ref=e1309] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1311]: هایپر فامیلی
+            - paragraph [ref=e1312]: ٪2 برگشت‌پول
+            - paragraph [ref=e1313]: 75 شعبه
+          - link "وال مارکت ٪1.3 برگشت‌پول 44 شعبه" [ref=e1314] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1316]: وال مارکت
+            - paragraph [ref=e1317]: ٪1.3 برگشت‌پول
+            - paragraph [ref=e1318]: 44 شعبه
+          - link "هفت ٪1 برگشت‌پول 694 شعبه" [ref=e1319] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1321]: هفت
+            - paragraph [ref=e1322]: ٪1 برگشت‌پول
+            - paragraph [ref=e1323]: 694 شعبه
+          - link "یاران دریان ٪4.5 برگشت‌پول 77 شعبه" [ref=e1324] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1326]: یاران دریان
+            - paragraph [ref=e1327]: ٪4.5 برگشت‌پول
+            - paragraph [ref=e1328]: 77 شعبه
+          - link "چرم مَنطِ ٪7 برگشت‌پول 14 شعبه" [ref=e1329] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1331]: چرم مَنطِ
+            - paragraph [ref=e1332]: ٪7 برگشت‌پول
+            - paragraph [ref=e1333]: 14 شعبه
+          - link "هانیمان ٪6 برگشت‌پول 8 شعبه" [ref=e1334] [cursor=pointer]:
+            - /url: /offcb
+            - paragraph [ref=e1336]: هانیمان
+            - paragraph [ref=e1337]: ٪6 برگشت‌پول
+            - paragraph [ref=e1338]: 8 شعبه
+      - generic [ref=e1341]:
+        - banner [ref=e1342]:
+          - paragraph [ref=e1343]: بهترین مراکز دندانپزشکی
+          - link "مشاهده همه " [ref=e1344] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/health-medical/dental
+            - generic [ref=e1345]: مشاهده همه
+            - generic [ref=e1346]: 
+        - generic [ref=e1347]:
+          - link "دندانپزشکی دریا اختیاریه  3.7 تا 55% تخفیف مشاهده پیشنهادها " [ref=e1352] [cursor=pointer]:
+            - /url: /vendor/51481_-دندانپزشکی-دریا
+            - generic [ref=e1353]:
+              - generic [ref=e1354]:
+                - paragraph [ref=e1356]: دندانپزشکی دریا
+                - generic [ref=e1357]:
+                  - generic [ref=e1359]: اختیاریه
+                  - generic [ref=e1361]:
+                    - generic [ref=e1362]: 
+                    - paragraph [ref=e1363]: "3.7"
+              - generic [ref=e1366]:
+                - paragraph [ref=e1367]:
+                  - text: تا
+                  - generic [ref=e1368]: 55%
+                - paragraph [ref=e1369]: تخفیف
+            - paragraph [ref=e1372]:
+              - generic [ref=e1373]: مشاهده پیشنهادها
+              - generic [ref=e1374]: 
+          - link "دندانپزشکی آرسام  4.1 تا 45% تخفیف مشاهده پیشنهادها " [ref=e1379] [cursor=pointer]:
+            - /url: /vendor/28072_دندانپزشکی-آرسام
+            - generic [ref=e1380]:
+              - generic [ref=e1381]:
+                - paragraph [ref=e1383]: دندانپزشکی آرسام
+                - generic [ref=e1386]:
+                  - generic [ref=e1387]: 
+                  - paragraph [ref=e1388]: "4.1"
+              - generic [ref=e1391]:
+                - paragraph [ref=e1392]:
+                  - text: تا
+                  - generic [ref=e1393]: 45%
+                - paragraph [ref=e1394]: تخفیف
+            - paragraph [ref=e1397]:
+              - generic [ref=e1398]: مشاهده پیشنهادها
+              - generic [ref=e1399]: 
+          - link "150 خرید مرکز دندانپزشکی لاویه  4.9 تا 64% تخفیف مشاهده پیشنهادها " [ref=e1404] [cursor=pointer]:
+            - /url: /vendor/12183_مرکز-دندانپزشکی-لاویه
+            - paragraph [ref=e1406]: 150 خرید
+            - generic [ref=e1407]:
+              - generic [ref=e1408]:
+                - paragraph [ref=e1410]: مرکز دندانپزشکی لاویه
+                - generic [ref=e1413]:
+                  - generic [ref=e1414]: 
+                  - paragraph [ref=e1415]: "4.9"
+              - generic [ref=e1418]:
+                - paragraph [ref=e1419]:
+                  - text: تا
+                  - generic [ref=e1420]: 64%
+                - paragraph [ref=e1421]: تخفیف
+            - paragraph [ref=e1424]:
+              - generic [ref=e1425]: مشاهده پیشنهادها
+              - generic [ref=e1426]: 
+          - link "مرکز دندانپزشکی الیز گاندی تا 19% تخفیف مشاهده پیشنهادها " [ref=e1431] [cursor=pointer]:
+            - /url: /vendor/51912_مرکز-دندانپزشکی-الیز
+            - generic [ref=e1432]:
+              - generic [ref=e1433]:
+                - paragraph [ref=e1435]: مرکز دندانپزشکی الیز
+                - generic [ref=e1438]: گاندی
+              - generic [ref=e1441]:
+                - paragraph [ref=e1442]:
+                  - text: تا
+                  - generic [ref=e1443]: 19%
+                - paragraph [ref=e1444]: تخفیف
+            - paragraph [ref=e1447]:
+              - generic [ref=e1448]: مشاهده پیشنهادها
+              - generic [ref=e1449]: 
+          - link "مطب دکتر قربانی پور حقانی  1.1 تا 50% تخفیف مشاهده پیشنهادها " [ref=e1454] [cursor=pointer]:
+            - /url: /vendor/15671_مطب-دکتر-قربانی-پور
+            - generic [ref=e1455]:
+              - generic [ref=e1456]:
+                - paragraph [ref=e1458]: مطب دکتر قربانی پور
+                - generic [ref=e1459]:
+                  - generic [ref=e1461]: حقانی
+                  - generic [ref=e1463]:
+                    - generic [ref=e1464]: 
+                    - paragraph [ref=e1465]: "1.1"
+              - generic [ref=e1468]:
+                - paragraph [ref=e1469]:
+                  - text: تا
+                  - generic [ref=e1470]: 50%
+                - paragraph [ref=e1471]: تخفیف
+            - paragraph [ref=e1474]:
+              - generic [ref=e1475]: مشاهده پیشنهادها
+              - generic [ref=e1476]: 
+      - generic [ref=e1479]:
+        - banner [ref=e1480]:
+          - paragraph [ref=e1481]: بوفه‌های صبحانه
+          - link "مشاهده همه " [ref=e1482] [cursor=pointer]:
+            - /url: https://takhfifan.com/tehran/restaurants-cafes/self-service
+            - generic [ref=e1483]: مشاهده همه
+            - generic [ref=e1484]: 
+        - generic [ref=e1485]:
+          - link "167 خرید رستوران هتل ایران بهجت آباد  3.1 تا 20% تخفیف مشاهده پیشنهادها " [ref=e1490] [cursor=pointer]:
+            - /url: /vendor/12797_رستوران-هتل-ایران
+            - paragraph [ref=e1492]: 167 خرید
+            - generic [ref=e1493]:
+              - generic [ref=e1494]:
+                - paragraph [ref=e1496]: رستوران هتل ایران
+                - generic [ref=e1497]:
+                  - generic [ref=e1499]: بهجت آباد
+                  - generic [ref=e1501]:
+                    - generic [ref=e1502]: 
+                    - paragraph [ref=e1503]: "3.1"
+              - generic [ref=e1506]:
+                - paragraph [ref=e1507]:
+                  - text: تا
+                  - generic [ref=e1508]: 20%
+                - paragraph [ref=e1509]: تخفیف
+            - paragraph [ref=e1512]:
+              - generic [ref=e1513]: مشاهده پیشنهادها
+              - generic [ref=e1514]: 
+          - link "کافه ترافیک پلاس  4.3 تا 20% تخفیف مشاهده پیشنهادها " [ref=e1519] [cursor=pointer]:
+            - /url: /vendor/93293_کافه-ترافیک-پلاس
+            - generic [ref=e1520]:
+              - generic [ref=e1521]:
+                - paragraph [ref=e1523]: کافه ترافیک پلاس
+                - generic [ref=e1526]:
+                  - generic [ref=e1527]: 
+                  - paragraph [ref=e1528]: "4.3"
+              - generic [ref=e1531]:
+                - paragraph [ref=e1532]:
+                  - text: تا
+                  - generic [ref=e1533]: 20%
+                - paragraph [ref=e1534]: تخفیف
+            - paragraph [ref=e1537]:
+              - generic [ref=e1538]: مشاهده پیشنهادها
+              - generic [ref=e1539]: 
+          - link "1 خرید کافه رستوران ویواچه (دریاچه) شهرک گلستان تا 60% تخفیف مشاهده پیشنهادها " [ref=e1544] [cursor=pointer]:
+            - /url: /vendor/92693_کافه-رستوران-ویواچه-(دریاچه)
+            - paragraph [ref=e1546]: 1 خرید
+            - generic [ref=e1547]:
+              - generic [ref=e1548]:
+                - paragraph [ref=e1550]: کافه رستوران ویواچه (دریاچه)
+                - generic [ref=e1553]: شهرک گلستان
+              - generic [ref=e1556]:
+                - paragraph [ref=e1557]:
+                  - text: تا
+                  - generic [ref=e1558]: 60%
+                - paragraph [ref=e1559]: تخفیف
+            - paragraph [ref=e1562]:
+              - generic [ref=e1563]: مشاهده پیشنهادها
+              - generic [ref=e1564]: 
+          - link "10 خرید رستوران نخل هتل کارون  4.5 تا 15% تخفیف مشاهده پیشنهادها " [ref=e1569] [cursor=pointer]:
+            - /url: /vendor/86964_رستوران-نخل-هتل-کارون-
+            - paragraph [ref=e1571]: 10 خرید
+            - generic [ref=e1572]:
+              - generic [ref=e1573]:
+                - paragraph [ref=e1575]: رستوران نخل هتل کارون
+                - generic [ref=e1578]:
+                  - generic [ref=e1579]: 
+                  - paragraph [ref=e1580]: "4.5"
+              - generic [ref=e1583]:
+                - paragraph [ref=e1584]:
+                  - text: تا
+                  - generic [ref=e1585]: 15%
+                - paragraph [ref=e1586]: تخفیف
+            - paragraph [ref=e1589]:
+              - generic [ref=e1590]: مشاهده پیشنهادها
+              - generic [ref=e1591]: 
+          - link "168 خرید رستوران سنتی شهربانو سعادت آباد  2 تا 36% تخفیف مشاهده پیشنهادها " [ref=e1596] [cursor=pointer]:
+            - /url: /vendor/2948_رستوران-سنتی-شهربانو
+            - paragraph [ref=e1598]: 168 خرید
+            - generic [ref=e1599]:
+              - generic [ref=e1600]:
+                - paragraph [ref=e1602]: رستوران سنتی شهربانو
+                - generic [ref=e1603]:
+                  - generic [ref=e1605]: سعادت آباد
+                  - generic [ref=e1607]:
+                    - generic [ref=e1608]: 
+                    - paragraph [ref=e1609]: "2"
+              - generic [ref=e1612]:
+                - paragraph [ref=e1613]:
+                  - text: تا
+                  - generic [ref=e1614]: 36%
+                - paragraph [ref=e1615]: تخفیف
+            - paragraph [ref=e1618]:
+              - generic [ref=e1619]: مشاهده پیشنهادها
+              - generic [ref=e1620]: 
+    - generic [ref=e1623]:
+      - generic [ref=e1624]:
+        - generic [ref=e1625]:
+          - generic [ref=e1626]:
+            - heading "از آخرین تخفیفان‌ها مطلع باشید" [level=3] [ref=e1627]
+            - paragraph [ref=e1628]: با وارد کردن ایمیل خود آخرین تخفیفان‌های شهرتان را دریافت کنید
+          - generic [ref=e1630]:
+            - generic [ref=e1632] [cursor=pointer]:
+              - text: تهران
+              - generic [ref=e1633]: 
+            - textbox "example@gmail.com" [ref=e1635]
+            - button "اشتراک" [ref=e1636] [cursor=pointer]
+        - link [ref=e1638] [cursor=pointer]:
+          - /url: /awards
+      - generic [ref=e1639]:
+        - generic [ref=e1640]:
+          - generic [ref=e1641]:
+            - heading "درباره تخفیفان" [level=4] [ref=e1642]
+            - list [ref=e1643]:
+              - listitem [ref=e1644] [cursor=pointer]:
+                - link "درباره ما" [ref=e1645]:
+                  - /url: /landings/about-us
+              - listitem [ref=e1646] [cursor=pointer]:
+                - link "تماس با ما" [ref=e1647]:
+                  - /url: /landings/contact-us
+              - listitem [ref=e1648] [cursor=pointer]:
+                - link "قوانین و مقررات" [ref=e1649]:
+                  - /url: https://cdn.takhfifan.com/media/doc/takhfifan_rules.pdf
+          - generic [ref=e1650]:
+            - heading "همکاری با تخفیفان" [level=4] [ref=e1651]
+            - list [ref=e1652]:
+              - listitem [ref=e1653] [cursor=pointer]:
+                - link "فرصت های شغلی" [ref=e1654]:
+                  - /url: https://career.hrcando.ir/co/takhfifan
+              - listitem [ref=e1655] [cursor=pointer]: کسب و کار خود را تبلیغ کنید
+              - listitem [ref=e1656] [cursor=pointer]:
+                - link "خدمات سازمانی" [ref=e1657]:
+                  - /url: https://l.takhfifan.com/b2b
+          - generic [ref=e1658]:
+            - heading "بیشتر بخوانید" [level=4] [ref=e1659]
+            - list [ref=e1660]:
+              - listitem [ref=e1661] [cursor=pointer]:
+                - link "تخفیفان چگونه کار می کند" [ref=e1662]:
+                  - /url: /how-it-works
+              - listitem [ref=e1663] [cursor=pointer]:
+                - link "مجله تخفیفان" [ref=e1664]:
+                  - /url: /blog/
+        - generic [ref=e1665]:
+          - generic [ref=e1666]:
+            - heading "دریافت اپلیکیشن" [level=4] [ref=e1667]
+            - link "دانلود نسخه اندروید تخفیفاندانلود نسخه اندروید" [ref=e1669] [cursor=pointer]:
+              - /url: /mobile
+              - img "دانلود نسخه اندروید تخفیفان" [ref=e1670]
+              - text: دانلود نسخه اندروید
+            - link "دانلود نسخه iOS تخفیفاندانلود نسخه iOS" [ref=e1672] [cursor=pointer]:
+              - /url: /mobile
+              - img "دانلود نسخه iOS تخفیفان" [ref=e1673]
+              - text: دانلود نسخه iOS
+          - img "دریافت اپلیکیشن تخفیفان" [ref=e1674]
+      - generic [ref=e1676]:
+        - link "SUPPORT@TAKHFIFAN.COM" [ref=e1677] [cursor=pointer]:
+          - /url: mailto:support@takhfifan.com
+        - link "+۹۸ - ۲۱ - ۴۲۰۲۷" [ref=e1678] [cursor=pointer]:
+          - /url: tel:+98-21-42027
+        - list [ref=e1679]:
+          - listitem [ref=e1680]:
+            - link "" [ref=e1681] [cursor=pointer]:
+              - /url: http://instagram.com/takhfifan/
+              - generic [ref=e1682]: 
+          - listitem [ref=e1683]:
+            - link "" [ref=e1684] [cursor=pointer]:
+              - /url: http://www.telegram.me/takhfifan/
+              - generic [ref=e1685]: 
+          - listitem [ref=e1686]:
+            - link "" [ref=e1687] [cursor=pointer]:
+              - /url: https://www.facebook.com/Takhfifan
+              - generic [ref=e1688]: 
+          - listitem [ref=e1689]:
+            - link "" [ref=e1690] [cursor=pointer]:
+              - /url: https://twitter.com/takhfifan
+              - generic [ref=e1691]: 
+          - listitem [ref=e1692]:
+            - link "" [ref=e1693] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/takhfifan/
+              - generic [ref=e1694]: 
+      - generic [ref=e1695]:
+        - generic [ref=e1696]:
+          - heading "حس خوب هیجان، با تخفیف‌های روزانه تخفیفان" [level=4] [ref=e1697]
+          - generic [ref=e1698]:
+            - text: تخفیفان پلتفرمی برای ارتباط بین مراکز خدماتی و فروشندگان با مشتریان است. تخفیفان به مشتریان خود تجربه‌ای جدید و هوشمندانه در خرید کردن ارائه می‌کند و باعث رونق کسب‌وکار شرکای تجاری خود می‌شود. شما چه به دنبال یک خرید آنلاین یا خرید از مغازه‌های نزدیک محل سکونت خود باشید و چه به دنبال یک تجربه خاص، چشیدن یک طعم متفاوت یا یادگیری چیزاهای جدید باشید، با تخفیفان یک خرید هوشمندانه و با قیمت مناسب را تجربه خواهید کرد. امروز تخفیفان در نقطه‌ای قرار گرفته که می‌تواند روی تفریح و خرید شما تاثیر گذار باشد. با تخفیفان حتی می‌توانید خرید از میوه فروشی‌ها و داروخانه‌های سطح شهر را هم به خریدی هوشمندانه تبدیل کنید! تخفیفان پلفترمی گسترده در ارائه انواع پیشنهادها است که خدمات خود را در چندین شهر بزرگ ایران ارائه می‌دهد. با نصب سوپر اَپ تخفیفان می‌توانید از همه پیشنهادهای جذاب و جدید اطراف خود و فروشگاه‌های اینترنتی با خبر باشید. تخفیفان در روز ده‌ها تخفیف ویژه و جذاب برایتان دارد و شما می‌توانید از تخفیف های چهل تا صد درصدی استفاده کنید.
+            - paragraph [ref=e1699]:
+              - text: برخی از دسته‌های محبوب تخفیفان،
+              - link "رستوران های تهران" [ref=e1700] [cursor=pointer]:
+                - /url: /tehran/restaurants-cafes
+              - text: ، هتل،
+              - link "تور مسافرتی" [ref=e1701] [cursor=pointer]:
+                - /url: /tour
+              - text: ، کافی‌شاپ، آرایشگاه، کلینیک زیبایی، آتلیه،
+              - link "بلیط تئاتر" [ref=e1702] [cursor=pointer]:
+                - /url: /tehran/art-culture/theater
+              - text: بازی اتاق فرار و
+              - link "کد تخفیف" [ref=e1703] [cursor=pointer]:
+                - /url: /offers
+              - text: هستند. از محبوب ترین کد های تخفیفی که در تخفیفان ارائه می شود می توان به
+              - link "کد تخفیف دیجی کالا" [ref=e1704] [cursor=pointer]:
+                - /url: /offers/vendors/digikala
+              - text: ،
+              - link "کد تخفیف اسنپ فود" [ref=e1705] [cursor=pointer]:
+                - /url: /offers/vendors/snappfood
+              - text: ،
+              - link "کد تخفیف فیلیمو" [ref=e1706] [cursor=pointer]:
+                - /url: /offers/vendors/filimo
+              - text: و
+              - link "کد تخفیف نماوا" [ref=e1707] [cursor=pointer]:
+                - /url: /offers/vendors/namava
+              - text: اشاره کرد. همچنین برای ارائه خدمات بهتر هر یک از قسمت‌های تخفیفان به دسته‌بندی‌های کوچک‌تری همچون تخفیف رستوران سنتی و ایرانی، رستوران با موسیقی زنده ، کافی‌شاپ، صبحانه، بوفه نهار و شام،
+              - link "بلیط استخر،" [ref=e1708] [cursor=pointer]:
+                - /url: /tehran/recreational-sports/water-sport
+              - text: باشگاه بدن‌سازی،
+              - link "شهربازی" [ref=e1709] [cursor=pointer]:
+                - /url: /tehran/recreational-sports/game-room
+              - text: ، توچال، تئاتر کودک،
+              - link "تئاتر کمدی" [ref=e1710] [cursor=pointer]:
+                - /url: /tehran/art-culture/theater/comedy
+              - text: ، پینت بال، برج میلاد،
+              - link "لیزر موهای زائد" [ref=e1711] [cursor=pointer]:
+                - /url: /tehran/health-medical/hair-removal-laser
+              - text: ، تور و هتل مشهد، هتل شمال و سایر هتل‌ها تقسیم شده است. تخفیفان علاوه بر تهران در شهرهای مشهد، تبریز، اصفهان، کرج، شیراز و استان مازندران نیز فعالیت دارد.
+        - list [ref=e1713]:
+          - listitem [ref=e1714]:
+            - img "takhfifan" [ref=e1715] [cursor=pointer]
+          - listitem [ref=e1716]:
+            - img "logo-samandehi" [ref=e1717] [cursor=pointer]
+          - listitem [ref=e1718]:
+            - link [ref=e1719] [cursor=pointer]:
+              - /url: https://trustseal.enamad.ir/?id=116348&Code=Fn9KoSkasKRARgpQZ2Hw
+      - paragraph [ref=e1721]: تخفیفان 1404 - ساخته شده با عشق
+    - generic:
+      - list
+  - iframe [ref=e1722]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e5]:
+        - paragraph
+        - button "مشاهده" [ref=f1e6] [cursor=pointer]
+      - generic [ref=f1e8] [cursor=pointer]: 
+```
